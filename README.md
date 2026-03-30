@@ -18,10 +18,9 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - *Describir el objetivo principal del proyecto.*
+  - Traductor de lengua de señas chileno
 - Objetivos específicos:
-  - *Listar objetivos concretos que permitirán alcanzar el objetivo general.*
-
+  - Traducir de lenguaje de señas chileno a lenguaje verbal a través de un dispositivo
 ---
 
 ## 🧩 Alcance del proyecto
