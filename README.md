@@ -6,12 +6,10 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* 鈥
 
 | Nombre y Apellido | Usuario GitHub | Correo USM               | Rol USM      |
 | ----------------- | -------------- | ------------------------ | ------------ |
-| Nombre1 Apellido1 | @usuario1      | nombre1.apellido1@usm.cl | 200000000000 |
-| Nombre2 Apellido2 | @usuario2      | nombre2.apellido2@usm.cl | 200000000000 |
-| Nombre3 Apellido3 | @usuario3      | nombre3.apellido3@usm.cl | 200000000000 |
-| Nombre4 Apellido4 | @usuario4      | nombre4.apellido4@usm.cl | 200000000000 |
+| Benjam铆n Cerda | @bcerdafilippi     | bcerdaf@usm.cl | 2026300420 |
+| Amira Lizana  | @Tiar-e     | nombre2.apellido2@usm.cl | 200000000000 |
+| Santiago Silva | @Santouc      | ssilvap@usm.cl | 2026300099 |
 
-## 馃摑 Descripci贸n breve del proyecto
 
 > *Aqu铆 va una descripci贸n general del proyecto, incluyendo su prop贸sito, contexto dentro del curso y motivaci贸n.*
 
