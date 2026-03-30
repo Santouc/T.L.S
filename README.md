@@ -11,7 +11,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* 鈥
 | Santiago Silva | @Santouc      | ssilvap@usm.cl | 2026300099 |
 
 
-> *Aqu铆 va una descripci贸n general del proyecto, incluyendo su prop贸sito, contexto dentro del curso y motivaci贸n.*
+> Un dispositivo que a trav茅s de una camara pueda procesar los movimientos de las manos de el lenguaje de se帽as chileno y sea capaz de asimilarlo en el arduino uno q y pueda enviarlo como voz. La motivaci贸n nuestra al hacer este proyecto es poder facilitar la comunicaci贸n entre personas sordomudas a las dem谩s personas.
 
 ---
 
