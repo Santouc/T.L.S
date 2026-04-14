@@ -72,7 +72,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 ## 📅 Cronograma de trabajo
 
 [Carta Gantt](https://google.com)
-
+https://usmcl-my.sharepoint.com/:x:/g/personal/ssilvap_usm_cl/IQAZlQx4230hTY1oSzXnhvYKAcZ4onZFIGCQQ6yur6llBPo?e=g9aMB9
 ---
 
 ## 📚 Bibliografía
