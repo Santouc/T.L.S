@@ -1,14 +1,14 @@
 # PROY-2026-GRUPO7
 
-Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* – 2026.
+Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial (IWG400)* – 2026.
 
 ## 👥 Integrantes del grupo
 
 | Nombre y Apellido | Usuario GitHub | Correo USM               | Rol USM      |
 | ----------------- | -------------- | ------------------------ | ------------ |
-| Benjamín Cerda | @bcerdafilippi     | bcerdaf@usm.cl | 2026300420 |
-| Amira Lizana  | @Tiar-e     | alizana@usm.cl | 2026300056|
-| Santiago Silva | @Santouc      | ssilvap@usm.cl | 2026300099 |
+| Benjamín Cerda | @bcerdafilippi     | bcerdaf@usm.cl | 202630042-0 |
+| Amira Lizana  | @Tiar-e     | alizana@usm.cl | 202630005-6|
+| Santiago Silva | @Santouc      | ssilvap@usm.cl | 202630009-9 |
 
 "Es un software capaz de aprender cualquier lenguaje de señas basado en el reconocimiento de la mano en 21 puntos a través de una cámara. Nuestra motivación al realizar este proyecto es facilitar la comunicación entre las personas sordomudas y el resto de la sociedad."
 
