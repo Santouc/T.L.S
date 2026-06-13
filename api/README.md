@@ -99,11 +99,11 @@ pip install -r requirements.txt
 2. **Preparar modelos:**
 ```bash
 # Copiar modelos al directorio de la API
-cp ../tf_classifier/model.h5 .
-cp ../tf_classifier/labels.json .
+cp ../data/models/model.h5 .
+cp ../data/models/labels.json .
 # o para TFLite
-cp ../tf_classifier/model.tflite .
-cp ../tf_classifier/model.tflite_labels.json labels.json
+cp ../data/models/model.tflite .
+cp ../data/models/model.tflite_labels.json labels.json
 ```
 
 3. **Ejecutar servidor:**

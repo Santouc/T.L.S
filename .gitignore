@@ -5,126 +5,25 @@ __pycache__/
 *.so
 .Python
 build/
-develop-eggs/
 dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
 *.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
-
-# PyInstaller
-*.manifest
-*.spec
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-.hypothesis/
-.pytest_cache/
+.eggs/
 
 # Virtual environments
-.env
-.venv
-env/
+.venv/
 venv/
+env/
 ENV/
-env.bak/
-venv.bak/
-
-# IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# TensorFlow
-*.h5
-*.pb
-*.tflite
-*.keras
-checkpoints/
-logs/
-
-# Dataset files (too large for git)
-dataset*.json
-processed_dataset.json
-training_data/
-data/raw/
-data/processed/
-
-# Model files (too large for git)
-model.h5
-model.tflite
-model.keras
-saved_model/
 
 # Logs
 logs/
 *.log
-*.log.*
 
-# Temporary files
-temp/
-tmp/
-*.tmp
-*.temp
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
 
-# Camera cache
-*.cache
-.cache/
-
-# MediaPipe models
-hand_landmarker.task
-
-# Arduino build files
-*.hex
-*.elf
-*.bin
-
-# API artifacts
-__pycache__/
-*.pyc
-
-# Docker
-.dockerignore
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# Documentation build
-docs/_build/
-site/
-
-# Backup files
-*.bak
-*.backup
-*~
-
-# Local configuration
-config.local.py
-.env.local
+# OS
+.DS_Store
+Thumbs.db

@@ -31,8 +31,8 @@ class Config:
         
         # Configuración de TensorFlow
         self.tensorflow_config = {
-            'model_path': 'models/sign_classifier.h5',
-            'labels_path': 'models/labels.json',
+            'model_path': 'data/models/model.h5',
+            'labels_path': 'data/models/labels.json',
             'confidence_threshold': 0.7,
             'input_shape': (21, 3),
             'num_classes': 8
