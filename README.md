@@ -135,24 +135,34 @@ https://usmcl-my.sharepoint.com/:x:/g/personal/ssilvap_usm_cl/IQAZlQx4230hTY1oSz
 
 MediaPipe. (s. f.). MediaPipe Hands. Google AI for Developers.
 https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker
+
 OpenCV. (s. f.). OpenCV Documentation. OpenCV.
 https://docs.opencv.org/
+
 TensorFlow. (s. f.). TensorFlow Documentation. Google.
 https://www.tensorflow.org/
+
 Keras. (s. f.). Keras Documentation.
 https://keras.io/
+
 NumPy. (s. f.). NumPy Documentation.
 https://numpy.org/doc/
+
 Scikit-learn. (s. f.). Scikit-learn User Guide.
 https://scikit-learn.org/stable/user_guide.html
+
 FastAPI. (s. f.). FastAPI Documentation.
 https://fastapi.tiangolo.com/
+
 Uvicorn. (s. f.). Uvicorn Documentation.
 https://www.uvicorn.org/
+
 Python Software Foundation. (s. f.). Python Documentation.
 https://docs.python.org/3/
+
 Git. (s. f.). Git Documentation.
 https://git-scm.com/doc
+
 Docker. (s. f.). Docker Documentation.
 https://docs.docker.com/
 
@@ -160,5 +170,6 @@ https://docs.docker.com/
 
 ## 📌 Notas adicionales
 
-> *Condiciones de uso: El rendimiento del sistema puede variar según la iluminación, la posición de la cámara, la distancia de la mano y la claridad con que se realice la seña.
-Señas dinámicas: Para las señas con movimiento, es importante mantener una captura estable y una duración similar entre muestras para mejorar la clasificación.*
+> *Condiciones de uso: El rendimiento del sistema puede variar según la iluminación, la posición de la cámara, la distancia de la mano y la claridad con que se realice la seña.*
+
+> *Señas dinámicas: Para las señas con movimiento, es importante mantener una captura estable y una duración similar entre muestras para mejorar la clasificación.*
