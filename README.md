@@ -173,3 +173,5 @@ https://docs.docker.com/
 > *Condiciones de uso: El rendimiento del sistema puede variar según la iluminación, la posición de la cámara, la distancia de la mano y la claridad con que se realice la seña.*
 
 > *Señas dinámicas: Para las señas con movimiento, es importante mantener una captura estable y una duración similar entre muestras para mejorar la clasificación.*
+
+> *No están todas las letras incluidas.*
