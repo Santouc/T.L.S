@@ -103,7 +103,7 @@ Lo que queda fuera del alcance es la integración al sistema Arduino Uno Q, debi
 ## 🚀 Instrucciones de Instalacióny Uso
 
 
-1. **Clonar el repositorio:** `git clone <URL-del-repositorio>
+1. **Clonar el repositorio:** `git clone https://github.com/Santouc/PLANTILLA-PROY-2026-GRUPO7.git
 cd PLANTILLA-PROY-2026-GRUPO7`
 2. **Dependencias:** El proyecto usa Python 3.9–3.12. Instala las librerías necesarias con: pip install -r requirements.txt
 3. **Ejecución:** El código tiene 3 principales archivos ejecutables para el funcionamiento del software y se dividen en etapas.
