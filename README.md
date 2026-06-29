@@ -37,7 +37,7 @@ Lo que queda fuera del alcance es la integración al sistema Arduino Uno Q, debi
 ## 🗂️ Estructura del repositorio
 
 ```
-/Mimo
+/PLANTILLA-PROY-2026-GRUPO7
 │
 ├── api/                        # API REST para servir el modelo
 │   ├── Dockerfile              # Imagen Docker de la API
